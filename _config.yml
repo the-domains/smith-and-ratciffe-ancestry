@@ -1,0 +1,28 @@
+name: 'Smith & Ratciffe Ancestry'
+favicon: null
+layout_spectrum: 0.08262308733537793
+typography_spectrum: 0.7452973655890673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6164701404049993
+  lightness: 0.6914421636611223
+  saturation: 0.7959318358916789
+  rhythmicContrast: 0.202588435029611
+purpose: []
