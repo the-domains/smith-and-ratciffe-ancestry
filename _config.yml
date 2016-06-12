@@ -1,4 +1,4 @@
-name: 'Smith & Ratciffe Ancestry'
+name: Smith & Ratciffe Ancestry
 favicon: null
 layout_spectrum: 0.9404255
 typography_spectrum: 0
@@ -36,6 +36,6 @@ color:
     - '#bfb0ab'
   brandStrength: 0.0625
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
